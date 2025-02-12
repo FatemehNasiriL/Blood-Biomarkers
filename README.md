@@ -4,8 +4,8 @@ Overview**
 This repository contains scripts and analysis pipelines for identifying severity biomarkers of acute viral infections using three types of blood-based nucleic acid data:
 
 1. Bulk Blood Transcriptome – Meta-analysis and external validation of RNA-seq datasets from whole blood to identify transcriptomic changes in severe infections.
- 2. Bulk Blood Methylome – Analysis of whole blood methylation data, including global methylation levels, differentially methylated positions (DMPs), and differentially methylated regions (DMRs), with transcriptomic validation.
- 3. Plasma cf-DNA – Identification of cell-type-specific markers in circulating cell-free DNA (cfDNA) to assess tissue damage and develop prognostic severity markers.
+2. Bulk Blood Methylome – Analysis of whole blood methylation data, including global methylation levels, differentially methylated positions (DMPs), and differentially methylated regions (DMRs), with transcriptomic validation.
+3. Plasma cf-DNA – Identification of cell-type-specific markers in circulating cell-free DNA (cfDNA) to assess tissue damage and develop prognostic severity markers.
 
 **Repository Structure**
 
