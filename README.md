@@ -11,13 +11,14 @@ m_values <- log2(beta_values / (1 - beta_values))
 # metadata 
 metaGSE179325_list <- readLines("path/GSE179325_series_matrix.txt")
 # Severity inf: element 42 in list
+```R
 metadata_string <- metaGSE179325_list[[42]]
 metadata_split <- strsplit(metadata_string, "\t")[[1]]
 disease_states <- metadata_split[-1]
 disease_states <- gsub("disease state: ", "", disease_states)
 disease_states <- trimws(disease_states)
 sample_info<-cbind(colnames(GSE179325[, -1]),disease_states)
-colnames(sample_info)<- ("Sample_Name","Group")
+colnames(sample_info)<- ("Sample_Name","Group")```
 
 ######################################################## Checking beta values and M values distribution
 png("beta_values_325.png", width = 600, height = 600, bg = "white")  
