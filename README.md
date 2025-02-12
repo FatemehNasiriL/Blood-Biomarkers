@@ -1,5 +1,5 @@
-Viral Infection Severity Biomarker Discovery
-Overview
+**Viral Infection Severity Biomarker Discovery
+Overview**
 
 This repository contains scripts and analysis pipelines for identifying severity biomarkers of acute viral infections using three types of blood-based nucleic acid data:
 
@@ -7,7 +7,7 @@ This repository contains scripts and analysis pipelines for identifying severity
  2. Bulk Blood Methylome – Analysis of whole blood methylation data, including global methylation levels, differentially methylated positions (DMPs), and differentially methylated regions (DMRs), with transcriptomic validation.
  3. Plasma cf-DNA – Identification of cell-type-specific markers in circulating cell-free DNA (cfDNA) to assess tissue damage and develop prognostic severity markers.
 
-Repository Structure
+**Repository Structure**
 
 📂 Bulk Blood Transcriptome
 
@@ -26,6 +26,6 @@ Validation of methylation markers with bulk blood transcriptome data.
 Identification of tissue-specific cfDNA markers for severity assessment.
 Estimation of tissue damage extent in severe infections.
 
-Usage
+**Usage**
 
 Each folder contains scripts and required data preprocessing steps for reproducing the analysis. See individual folders for detailed instructions.
