@@ -1,6 +1,7 @@
 ****Bulk Blood Methylome Analysis****
 
 **Overview**
+
 This folder contains scripts for analyzing whole blood DNA methylation in patients with acute viral infections to identify severity-associated epigenetic markers. The analysis is based on data from the "COVID-19 DNA Methylation Analysis" study, available under GEO accession GSE179325.
 
 
@@ -19,5 +20,5 @@ This folder contains scripts for analyzing whole blood DNA methylation in patien
 
 **Usage**
 
-    Scripts for each analysis step are available in this folder.
-    Refer to comments in the scripts for details on usage and dependencies.
+Scripts for each analysis step are available in this folder.
+Refer to comments in the scripts for details on usage and dependencies.
