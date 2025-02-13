@@ -7,7 +7,7 @@ This folder contains scripts for analyzing circulating cell-free DNA (cfDNA) met
 The analysis is based on whole-genome bisulfite sequencing (WGBS) cfDNA data from two datasets:
 UCSF & McGill University cfDNA datasets from the study:
 "Cell-free DNA tissues of origin by methylation profiling reveals significant cell, tissue, and organ-specific injury related to COVID-19 severity"
- 📌 Data accessible at: GitHub Repository
+ 📌 Data accessible at this GitHub Repository: https://github.com/alexpcheng/cfDNAme
 
 Additionally, to identify tissue-specific differentially methylated regions (DMRs), we use:
 "A DNA Methylation Atlas of Normal Human Cell Types" as a reference for cell-type-specific methylation patterns.
